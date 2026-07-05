@@ -1,2 +1,8 @@
-# universal-unit-converter-cli-v2
-Unified CLI tool for converting units across all categories (pressure, mass, volume, etc.)
+# Universal Unit Converter CLI
+Convert between:
+- Pressure (Pa/atm/bar/psi)
+- Mass (kg/lbs)
+- Volume (L/gal)
+- Speed (km/h/mph)
+
+Usage: `python main.py 10 Pa psi`
